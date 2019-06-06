@@ -1,0 +1,11 @@
+.info {
+	background-image: url(bg.png);
+	margin-left: auto;
+	
+	height: 1000px;
+}
+.slovo {
+	background-image: url(image.jpg);
+	width: 1024px;
+	height: 576px;
+}
